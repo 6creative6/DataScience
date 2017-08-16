@@ -14,7 +14,7 @@ pollutantmean <-
             dtall <- rbind(dtall,dt)
         }
         
-        ##??????????ֱ??
+        ##this maybe better
         #for (i in id){
         #dat<-rbind(dat,read.csv(files_list[i])) 
         #}
